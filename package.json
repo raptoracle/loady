@@ -12,10 +12,10 @@
     "waf"
   ],
   "license": "MIT",
-  "repository": "git://github.com/chjj/loady.git",
-  "homepage": "https://github.com/chjj/loady",
+  "repository": "git://github.com/raptoracle/loady.git",
+  "homepage": "https://github.com/raptoracle/loady",
   "bugs": {
-    "url": "https://github.com/chjj/loady/issues"
+    "url": "https://github.com/raptoracle/loady/issues"
   },
   "author": "Christopher Jeffrey <chjjeffrey@gmail.com>",
   "main": "./lib/loady.js",
